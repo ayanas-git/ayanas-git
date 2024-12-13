@@ -7,7 +7,7 @@
 
 ## About Me 🤓💼
 
-With a relentless drive for results, I turn complex data into actionable insights that make a real impact. Whether it’s in data engineering, advanced analytics, or building automated processes, I am focused on creating data solutions that are both intelligent and indispensable. Yes, I've outpaced and out-analyzed most of the team, but that’s not my end goal—I aim to become irreplaceable, known for top-quality, high-impact analytics, and yes, compensated accordingly.
+With a relentless drive for results, I turn complex data into actionable insights that make a real impact. Whether it’s in data engineering, advanced analytics, or building automated processes, I am focused on creating data solutions that are both intelligent and indispensable.
 
 ---
 
