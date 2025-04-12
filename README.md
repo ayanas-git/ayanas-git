@@ -1,13 +1,14 @@
-# Ayana Andrews-Joseph 🎨🏋🏾‍♀️🚀
+# Ayana Andrews-Joseph 🤓 | 👩🏽‍💻 AyanaAtWork
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aajoseph)  
-**Data Whisperer** | **Data Science Enthusiast** | **Process Optimization Dweeb**
 
 ---
 
-## About Me 🤓💼
+## About Me 
 
-With a relentless drive for results, I turn complex data into actionable insights that make a real impact. Whether it’s in data engineering, advanced analytics, or building automated processes, I am focused on creating data solutions that are both intelligent and indispensable.
+I’m Ayana Andrews-Joseph — a data analyst, creative technologist, and behavioral systems thinker. My work lives at the intersection of strategy, tech, and community.  
+
+Welcome to my portfolio repository — a curated archive of data-driven projects that blend strategy, behavioral analysis, and technical execution. This space is where analytical rigor meets human-centered design, and where every insight is backed by evidence, clarity, and impact.
 
 ---
 
@@ -16,14 +17,6 @@ With a relentless drive for results, I turn complex data into actionable insight
 - **Years of Experience**: 17+ in Public Health & Corporate Analytics
 - **Expertise**: Data Science, Analytics Engineering, Business Intelligence
 - **Mission**: To build data solutions that make me, and the insights I deliver, indispensable
-
----
-
-## Icebreakers (Fun Facts!) 🌟
-
-- 📊 Favorite phrase: “It depends"
-- 🤖 If I were a SQL function: `CASE WHEN "challenge" THEN "conquer" ELSE "innovate" END`
-- ⚡ Can clean a dataset and outmaneuver Mario Kart *at the same time*
 
 ---
 
@@ -41,19 +34,28 @@ With a relentless drive for results, I turn complex data into actionable insight
 
 ---
 
-## Featured Projects 🚀
+## 🛠️ Tools & Methods
+- Snowflake SQL
+- Python (for modeling)
+- Regression (linear + multivariate)
+- Time series behavior analysis
+- Strategic business framing
 
-> 👀 *Psst... A lot of my work is under wraps.* Let’s just say it’s powerful, proprietary, and a little top secret. Here’s what I can share:
-
-## Customer Segmentation 🛒
-A custom-built tool identifying customers and likely purchases across their grouping "domains" results in increased ROI by targeting the ideal customers given the marketing message.
-
-### Automated BI System 🤖  
-An AI-driven automation framework designed to streamline data workflows, reduce manual intervention, and accelerate executive reporting with pinpoint accuracy.
-
-> NOTE: I focus on delivering data-driven insights that allow B2B and B2C teams to leverage analytics at the C-suite decision-making processes.
 ---
 
-## Get in Touch
+## Icebreakers (Fun Facts!) 🌟
 
-If you’re ready to talk analytics, automation, or how to transform data into indispensable insights, connect with me on [LinkedIn](https://www.linkedin.com/in/aajoseph).
+- 📊 Favorite phrase: “It depends"
+- 🤖 If I were a SQL function: `CASE WHEN "challenge" THEN "conquer" ELSE "innovate" END`
+- ⚡ Can clean a dataset and outmaneuver Mario Kart *at the same time*
+
+---
+
+
+## 📜 License - _The legal stuff._
+
+All work herin is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Attribution is required, but no commercial use or derivative works are permitted without express permission.
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/aajoseph)  
+
+📧 Email me at [AyanaAtWork@gmail.com](mailto:ayanaatwork@gmail.com)
