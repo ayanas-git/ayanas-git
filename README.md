@@ -1,4 +1,4 @@
-# Ayana Andrews-Joseph 🤓 | 👩🏽‍💻 AyanaAtWork
+# A@Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aajoseph)  
 
