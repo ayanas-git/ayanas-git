@@ -6,7 +6,7 @@
 
 ## About Me 
 
-I’m Ayana Andrews-Joseph — a data analyst, creative technologist, and behavioral systems thinker. My work lives at the intersection of strategy, tech, and community.  
+I am a data analyst, creative technologist, and behavioral systems thinker. My work lives at the intersection of strategy, tech, and community.  
 
 Welcome to my portfolio repository — a curated archive of data-driven projects that blend strategy, behavioral analysis, and technical execution. This space is where analytical rigor meets human-centered design, and where every insight is backed by evidence, clarity, and impact.
 
